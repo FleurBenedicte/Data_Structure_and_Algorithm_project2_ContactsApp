@@ -1,0 +1,385 @@
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Select a menu choice from 1 to 7.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Search for contact:
+  First name:   Last name: No contact entry found for 'Sandiego, Carmen'.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contact Names
+-----------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contact Communications
+--------------------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Remove contact:
+  First name:   Last name: No contact entry found for 'Bloggs, Joe'.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: Contact added: Johnson, Jonathan: {LINKEDIN=javajon, WEBSITE=www.dijure.com}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+Johnson, Jonathan: {LINKEDIN=javajon, WEBSITE=www.dijure.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+Johnson, Jonathan: {LINKEDIN=javajon, WEBSITE=www.dijure.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options:   Update existing contact (y/n): Contact updated: Johnson, Jonathan: {}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Remove contact:
+  First name:   Last name: The contact `Johnson, Jonathan` has been removed.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: Contact added: Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: Contact added: Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: Contact added: Wilson, Stephanie: {}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: Media option in 'f: #thatguy, m: 212-999-1234' not recognized.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contact Names
+-----------------
+Tingle, Scott
+Watkins, Jessica
+Wilson, Stephanie
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contact Communications
+--------------------------
+{LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+{EMAIL=monica.j.witt@nasa.gov}
+{}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options:   Update existing contact (y/n): Contact updated: Wilson, Stephanie: {}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: Add contact:
+  First name:   Last name:   Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options:   Update existing contact (y/n): Contact updated: Wilson, Stephanie: {MOBILE=212-999-9999}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {MOBILE=212-999-9999}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 

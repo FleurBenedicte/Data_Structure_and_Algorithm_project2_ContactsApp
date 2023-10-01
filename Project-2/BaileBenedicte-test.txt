@@ -1,0 +1,70 @@
+
+✓  Passed Test 1: All items (including sentinels) have been added to tree as count is 17.
+✓  Passed Test 1: Text output contains token: (phi, 590)
+All Entries: 
+{(alpha, 179),(beta, 577),(delta, 845),(epsilon, 705),(gamma, 958),(lambda, 494),(phi, 590),(zeta, 483)}
+✓  Passed Test 2: The text output of the tree has an expected length: 104.
+✓  Passed Test 3: The key 'gamma' has the value '958'.
+✓  Passed Test 3: The key 'phi' has the value '590'.
+✓  Passed Test 3: The key 'beta' has the value '577'.
+✓  Passed Test 3: The key 'alpha' has the value '179'.
+✓  Passed Test 3: The key 'delta' has the value '845'.
+✓  Passed Test 3: The key 'lambda' has the value '494'.
+✓  Passed Test 3: The key 'epsilon' has the value '705'.
+✓  Passed Test 3: The key 'zeta' has the value '483'.
+✓  Passed Test 3: The key 'life' has the value '42'.
+✓  Passed Test 3: Before remove collection contains token: '(life, 42)'.
+✓  Passed Test 3: After remove colection does not contains token '(life, 42)'.
+✓  Passed Test 3: Search for '(life, 42)' after removal was null.
+✓  Passed Test 3: Search for blank key after removal was null.
+✓  Passed Test 4: Verify value(), the value '179' was expected.
+✓  Passed Test 4: Verify value(), the value '577' was expected.
+✓  Passed Test 4: Verify value(), the value '845' was expected.
+✓  Passed Test 4: Verify value(), the value '705' was expected.
+✓  Passed Test 4: Verify value(), the value '958' was expected.
+✓  Passed Test 4: Verify value(), the value '494' was expected.
+✓  Passed Test 4: Verify value(), the value '590' was expected.
+✓  Passed Test 4: Verify value(), the value '483' was expected.
+✓  Passed Test 4: Verify value(), the value 'alpha' was expected.
+✓  Passed Test 4: Verify value(), the value 'beta' was expected.
+✓  Passed Test 4: Verify value(), the value 'delta' was expected.
+✓  Passed Test 4: Verify value(), the value 'epsilon' was expected.
+✓  Passed Test 4: Verify value(), the value 'gamma' was expected.
+✓  Passed Test 4: Verify value(), the value 'lambda' was expected.
+✓  Passed Test 4: Verify value(), the value 'phi' was expected.
+✓  Passed Test 4: Verify value(), the value 'zeta' was expected.
+✓  Passed All tests for BinarySearchTreeMap
+✓  Passed 'Waldo' was not found.
+✓  Passed Contact 'Muir, John' has email `john.muir@sierraclub.org`.
+✓  Passed Contact Muir, John was removed.
+✓  Passed Form 1: Raw list has expected length: 345. Content: 
+{(Ceesay, Isatou, {LINKEDIN=isatou-ceesay-4a837216}),(Elizabeth Wathuti, {LINKEDIN=elizabeth-wathuti-8415a299, WEBSITE=linktr.ee/lizwathuti, EMAIL=lizwathuti@gmail.com}),(LaDuke, Winona, {LINKEDIN=winona-laduke-71861818}),(Maathai, Wangari, {LINKEDIN=wanjira-mathai-1b561ab, MOBILE=44-023-233-2323}),(Shiva, Vandana, {WEBSITE=vandanashiva.com})}
+✓  Passed Form 2: Formatted list has an expected length: 361. Content: 
+
+All Contacts
+------------
+Ceesay, Isatou: {LINKEDIN=isatou-ceesay-4a837216}
+Elizabeth Wathuti: {LINKEDIN=elizabeth-wathuti-8415a299, WEBSITE=linktr.ee/lizwathuti, EMAIL=lizwathuti@gmail.com}
+LaDuke, Winona: {LINKEDIN=winona-laduke-71861818}
+Maathai, Wangari: {LINKEDIN=wanjira-mathai-1b561ab, MOBILE=44-023-233-2323}
+Shiva, Vandana: {WEBSITE=vandanashiva.com}
+
+✓  Passed All contact names: 113. Content: 
+
+All Contacts Names
+------------
+Ceesay, Isatou
+Elizabeth Wathuti
+LaDuke, Winona
+Maathai, Wangari
+Shiva, Vandana
+
+✓  Passed All values of all contacts have expected length: 291. Content: 
+
+All Contacts Communications
+------------
+{LINKEDIN=isatou-ceesay-4a837216}
+{LINKEDIN=elizabeth-wathuti-8415a299, WEBSITE=linktr.ee/lizwathuti, EMAIL=lizwathuti@gmail.com}
+{LINKEDIN=winona-laduke-71861818}
+{LINKEDIN=wanjira-mathai-1b561ab, MOBILE=44-023-233-2323}
+{WEBSITE=vandanashiva.com}
